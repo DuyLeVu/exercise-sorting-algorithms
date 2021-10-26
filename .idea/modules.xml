@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bubble-sort-by-step/bubble-sort-by-step.iml" filepath="$PROJECT_DIR$/bubble-sort-by-step/bubble-sort-by-step.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubblesort-practice/bubblesort-practice.iml" filepath="$PROJECT_DIR$/bubblesort-practice/bubblesort-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercise-sorting-algorithms.iml" filepath="$PROJECT_DIR$/.idea/exercise-sorting-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertion-sort-by-step/insertion-sort-by-step.iml" filepath="$PROJECT_DIR$/insertion-sort-by-step/insertion-sort-by-step.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection-sort-practice/selection-sort-practice.iml" filepath="$PROJECT_DIR$/selection-sort-practice/selection-sort-practice.iml" />
+    </modules>
+  </component>
+</project>
