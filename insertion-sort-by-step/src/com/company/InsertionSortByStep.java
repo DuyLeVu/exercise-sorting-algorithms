@@ -19,10 +19,10 @@ public class InsertionSortByStep {
             System.out.print(numArr[i] + "\t");
         }
         System.out.println("\nThực hiện sắp xếp mảng ...");
-        InsertionSortByStep(numArr);
+        insertionSortByStep(numArr);
     }
 
-    public static void InsertionSortByStep(int[] array) {
+    public static void insertionSortByStep(int[] array) {
         for (int i = 1; i < array.length; i++) {
             int temp = array[i];
             int pos = i;
